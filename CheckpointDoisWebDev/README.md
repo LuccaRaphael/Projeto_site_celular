@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This code was developed as part of a college project using React and React Router to create a website for the sale of mobile phones and related products. It provides a platform for users to explore and purchase various mobile devices, accessories, and related items. The website offers a seamless browsing and shopping experience for those interested in acquiring the latest mobile technology, providing detailed information about product features and options. Users can easily navigate through the website to find the mobile phone that suits their needs and preferences. The code is designed to enhance the overall user experience and facilitate the online shopping process for mobile devices and accessories.
